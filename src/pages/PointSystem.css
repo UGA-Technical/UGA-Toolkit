@@ -1,0 +1,7 @@
+.row {
+    display: flex;
+    flex-flow: row;
+    gap: 15px;
+    height: 100%;
+    width: 100%;
+}

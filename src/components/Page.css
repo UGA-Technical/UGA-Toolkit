@@ -1,0 +1,22 @@
+.page {
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-flow: column;
+}
+
+.pageHeader {
+    display: flex;
+    flex-flow: row;
+    padding:0px;
+    margin:0px;
+    gap: 10px;
+}
+
+.pageContent {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+}

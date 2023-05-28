@@ -1,0 +1,21 @@
+.indexBody {
+      height: 100%;
+      width: 100%;
+      text-align: vertical;
+      display: flex;
+      align-items: center;
+      padding: 20px;
+      overflow:auto;
+}
+
+.indexParagraph {
+    margin: 30px 100px 0px 100px;
+    min-width:300px;
+}
+
+.tagDiv {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
