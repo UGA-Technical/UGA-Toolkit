@@ -117,9 +117,10 @@ export default function CombatDocumentation(props) {
             </Paragraph>
             <Paragraph>
               &nbsp;&nbsp; The hitbox does not change size proportional to the
-              player's avatar. This means that the hitbox is larger on smaller
-              avatars, and smaller on larger avatars. This is most noticeable on
-              the smallest avatar, the "baby" avatar. See below:
+              player's avatar. This that the hitbox is deceptively small on larger
+              avatars and deceptively large on smaller avatars. A hitbox properly matches
+              an avatar that's 2m tall. Most 40k avatars are taller than 2m tall, and so 
+              their hitbox will be smaller than their avatar. See below for an example of this:
             </Paragraph>
             <img
               style={{ minWidth: '300px', maxWidth: '600px' }}
