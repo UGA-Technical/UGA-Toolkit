@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/UGA-Toolkit/static/css/main.073c9b0a.css",
+    "main.js": "/UGA-Toolkit/static/js/main.0df85038.js",
+    "static/js/787.0d64ab06.chunk.js": "/UGA-Toolkit/static/js/787.0d64ab06.chunk.js",
+    "static/media/logo.svg": "/UGA-Toolkit/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/UGA-Toolkit/index.html",
+    "main.073c9b0a.css.map": "/UGA-Toolkit/static/css/main.073c9b0a.css.map",
+    "main.0df85038.js.map": "/UGA-Toolkit/static/js/main.0df85038.js.map",
+    "787.0d64ab06.chunk.js.map": "/UGA-Toolkit/static/js/787.0d64ab06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0df85038.js"
+  ]
+}
