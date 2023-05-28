@@ -151,10 +151,9 @@ export default function CombatDocumentation(props) {
             </Paragraph>
             <img style={{ minWidth: '300px', maxWidth: '600px' }} src={pvpmenu} alt='blah' />
             <Paragraph>
-              &nbsp;&nbsp; Groups of classes can be selected in the primary
-              screen shown below. Only the host may change the set of classes
-              available for players to choose from. Typically, UGA members will
-              use the Warhammer 40k classses.
+              &nbsp;&nbsp; Available classes are rendered as a collection of boxes to the left of the main screen. 
+              Hovering over the boxes pop a tooltip of the class they equip when pressed. The 40k class selection 
+              is shown below:
             </Paragraph>
             <img style={{ minWidth: '300px', maxWidth: '600px' }} src={classes} alt='blah' />
             <Paragraph>
