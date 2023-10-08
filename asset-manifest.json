@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UGA-Toolkit/static/css/main.a83143ed.css",
-    "main.js": "/UGA-Toolkit/static/js/main.f712fd75.js",
+    "main.js": "/UGA-Toolkit/static/js/main.980993b4.js",
     "static/media/uga.svg": "/UGA-Toolkit/static/media/uga.70058bb8b3fbf681b97ebb56c11585d7.svg",
     "static/media/pvpmenu.png": "/UGA-Toolkit/static/media/pvpmenu.aa53e48dc0f2550a170f.png",
     "static/media/hitboxes.png": "/UGA-Toolkit/static/media/hitboxes.27b945b57f183fcea386.png",
@@ -10,10 +10,10 @@
     "static/media/hitbox.png": "/UGA-Toolkit/static/media/hitbox.34f714cc7851a56a6918.png",
     "index.html": "/UGA-Toolkit/index.html",
     "main.a83143ed.css.map": "/UGA-Toolkit/static/css/main.a83143ed.css.map",
-    "main.f712fd75.js.map": "/UGA-Toolkit/static/js/main.f712fd75.js.map"
+    "main.980993b4.js.map": "/UGA-Toolkit/static/js/main.980993b4.js.map"
   },
   "entrypoints": [
     "static/css/main.a83143ed.css",
-    "static/js/main.f712fd75.js"
+    "static/js/main.980993b4.js"
   ]
 }
